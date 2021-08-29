@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# write your code here'
+  learner_created: false
+- name: stars.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8696#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 24 Aug 2021 16:26:31 UTC
+record: -1
